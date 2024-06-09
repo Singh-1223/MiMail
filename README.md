@@ -31,6 +31,7 @@ Ensure you have the following installed on your machine:
 
 - Node.js (>=14.x)
 - npm (>=6.x) or yarn (>=1.x)
+- Next js , Tailwind , React
 
 ### Installation
 
@@ -39,3 +40,22 @@ Ensure you have the following installed on your machine:
    ```sh
    git clone https://github.com/yourusername/email-classification.git
    cd email-classification
+
+2. Install the dependencies
+
+   ```sh
+   npm install
+
+3. Add env variables
+
+   ```sh
+   GOOGLE_CLIENT_ID=
+   GOOGLE_CLIENT_SECRET=
+   NEXTAUTH_SECRET
+
+4. Run the app
+
+   ```sh
+   npm run dev
+   
+
