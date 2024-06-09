@@ -11,7 +11,10 @@ This project is a Next.js application that fetches emails, classifies them into 
 
 ## Demo Video
 
-Watch the demo video [here](https://path/to/demo-video.mp4).
+Watch the demo video here
+
+https://github.com/Singh-1223/MiMail/assets/126049926/b83634e0-dfc5-4cff-93a4-7d0ba4a2d41f
+
 
 ## Screenshots
 
