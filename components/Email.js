@@ -133,9 +133,9 @@ const Emails = () => {
             onClick={() => openModal(email)}
           >
             <div className="flex border-b-4 border-slate-300 justify-around pb-2">
-              <div className="text-white"><span className="text-black">FROM : </span>{email.from.split("<")[0].trim()}</div>
+              <div className="text-white"><span className="text-white">FROM : </span>{email.from.split("<")[0].trim()}</div>
               <div className="text-white hidden  md:w-[60%] md:flex md:justify-center md:overflow-hidden text-center">{email.subject.length <= 40 ? email.subject : email.subject.substring(0, 40) + "..."}</div>
-              <div className="font-bold" style={{ color: classificationColor[email.classification] || "white" }}>{email.classification}
+              <div className="font-bold " style={{ color: classificationColor[email.classification] || "white" }}>{email.classification}
               </div>
             </div>
 

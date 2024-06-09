@@ -3,7 +3,7 @@ import React from "react";
 
 const EmailModal = ({ email, onClose }) => (
   <div
-    className={`modal fixed right-0 top-0 w-[90%] md:w-[50%] h-screen overflow-hidden p-4 bg-slate-700 border-l-2 border-slate-400 rounded-2xl opacity-100 z-2 transition-all duration-300 ease-in-out ${
+    className={`modal fixed right-0 top-0 w-[90%] md:w-[50%] h-screen overflow-auto p-4 bg-slate-700 border-l-2 border-slate-400 rounded-2xl opacity-100 z-2 transition-all duration-300 ease-in-out ${
       email ? "transform translate-x-0" : "transform translate-x-full"
     }`}
   >
