@@ -9,21 +9,26 @@ This project is a Next.js application that fetches emails, classifies them into 
 - **Email Display**: Display emails with classification colors and provide a detailed view in a modal.
 - **User Authentication**: Secure the application with user authentication using NextAuth.js.
 
-## Screenshots
-
-
-*Email List View![M1](https://github.com/Singh-1223/MiMail/assets/126049926/5e89488f-f113-49fa-abd0-cb8d8a5d545a)
-*
-![M2](https://github.com/Singh-1223/MiMail/assets/126049926/76b7cea3-d1a4-4519-9c30-5ae917c33f7e)
-
-![M3](https://github.com/Singh-1223/MiMail/assets/126049926/6eb9f21f-05f0-4bc0-99a1-335d5ad31db4)
-
-![M-4](https://github.com/Singh-1223/MiMail/assets/126049926/baeb583e-6da3-4204-a357-474632224cb5)
-
-
 ## Demo Video
 
 Watch the demo video [here](https://path/to/demo-video.mp4).
+
+## Screenshots
+
+LOGIN PAGE
+
+![M1](https://github.com/Singh-1223/MiMail/assets/126049926/5e89488f-f113-49fa-abd0-cb8d8a5d545a)
+
+GETTING GMAILS USING GMAIL API
+![M2](https://github.com/Singh-1223/MiMail/assets/126049926/76b7cea3-d1a4-4519-9c30-5ae917c33f7e)
+
+MODAL ON CLICKING SPECIFIC MAIL AND SPECIFIC URL QUERY IN URL
+![M3](https://github.com/Singh-1223/MiMail/assets/126049926/6eb9f21f-05f0-4bc0-99a1-335d5ad31db4)
+
+CLASSIFICATION
+![M-4](https://github.com/Singh-1223/MiMail/assets/126049926/baeb583e-6da3-4204-a357-474632224cb5)
+
+
 
 ## Getting Started
 
